@@ -1,0 +1,20 @@
+```css
+.counter-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.button-group button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.limit-msg {
+  color: red;
+  font-weight: bold;
+  margin-top: 20px;
+}
+```
